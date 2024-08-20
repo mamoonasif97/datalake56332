@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "datafactory56332"
+		},
+		"newdatalake56332_accountKey": {
+			"value": ""
+		},
+		"ActivityLogSynapse_connectionString": {
+			"value": ""
+		},
+		"newdatalake56332_properties_typeProperties_url": {
+			"value": "https://newdatalake56332.dfs.core.windows.net/"
+		}
+	}
+}
